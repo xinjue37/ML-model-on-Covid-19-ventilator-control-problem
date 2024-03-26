@@ -1,5 +1,5 @@
 # Undergraduate-Y2S1-ML_model_on_Covid-19_ventilator_control_problem
-Author: Ng Zheng Jue, Ong Ming Jie, Chiam Yu Wei, Lim Yi Jing, Cheng Hung Xu
+Author: [Ng Zheng Jue](https://github.com/xinjue37), [Ong Ming Jie](https://github.com/ethanong98), [Chiam Yu Wei](https://github.com/yuwei0410), [Lim Yi Jing](https://github.com/yijing0612), Cheng Hung Xu
 
 * This is a project developed in undergraduate Year 2 - Semester 1.
 * The repository consists
