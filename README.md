@@ -13,14 +13,16 @@ Author: [Ng Zheng Jue](https://github.com/xinjue37), [Ong Ming Jie](https://gith
 2. Data analysis <br>
   ---➤ Analyse the properties of the dataset <br>
   ---➤ Analyse the relationship among (u_in, u_out, time_step) and pressure <br>
-    i) Box plot<br>       ii) Violin plot<br>
-    iii) 2D graph<br>         iv) Correlation heatmap<br>
+    i) Box plot<be>
+    ii) Violin plot<br>
+    iii) 2D graph<br>
+    iv) Correlation heatmap<br>
   ---➤ Calculate the number of different R,C pairs <br>
   ---➤ Analyse the relationship among (R, C) and pressure <br>
-3. Data Pre-processing <br>
+4. Data Pre-processing <br>
   ---➤ Extracted subset of dataset from original dataset <br>
   ---➤ Scale predictor variable to range [0,1] & split data into train, test, validation <br>
-4. Create & Train the model <br>
+5. Create & Train the model <br>
   ---➤ KNN<br>
   ---➤ Random Forest<br>
   ---➤ XGBoost<br>
@@ -32,4 +34,4 @@ Author: [Ng Zheng Jue](https://github.com/xinjue37), [Ong Ming Jie](https://gith
     i)  Auto Regressive Integrated Moving Average (ARIMA) <br>
     ii) Vector Auto Regressive models (VAR) <br>
   ---➤Ensemble Learning<br>
-5. Conclusion 
+6. Conclusion 
