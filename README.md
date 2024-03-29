@@ -27,7 +27,7 @@ Author: [Ng Zheng Jue](https://github.com/xinjue37), [Ong Ming Jie](https://gith
   ---➤ Sequential Models for Forecasting Time Series Data<br>
     i)  ANN
     ii) Bidirectional LSTM
-    iii) Bidirectional GRU
+    iii) Bidirectional GRU <br>
   ---➤ Statistical Models for Forecasting Time Series Data<br>
     i)  Auto Regressive Integrated Moving Average (ARIMA)
     ii) Vector Auto Regressive models (VAR)
