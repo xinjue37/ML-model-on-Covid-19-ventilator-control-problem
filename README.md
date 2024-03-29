@@ -9,12 +9,12 @@ Author: [Ng Zheng Jue](https://github.com/xinjue37), [Ong Ming Jie](https://gith
  
 ## Table of content
 1. Introduction <br>
-  ---➤ TPE and type of data science problem for this topic
+  ---➤ TPE and type of data science problem for this topic <br>
 2. Data analysis <br>
   ---➤ Analyse the properties of the dataset <br>
   ---➤ Analyse the relationship among (u_in, u_out, time_step) and pressure <br>
-    i) Box plot       ii) Violin plot
-    iii) 2D graph         iv) Correlation heatmap
+    i) Box plot<br>       ii) Violin plot<br>
+    iii) 2D graph<br>         iv) Correlation heatmap<br>
   ---➤ Calculate the number of different R,C pairs <br>
   ---➤ Analyse the relationship among (R, C) and pressure <br>
 3. Data Pre-processing <br>
@@ -25,11 +25,11 @@ Author: [Ng Zheng Jue](https://github.com/xinjue37), [Ong Ming Jie](https://gith
   ---➤ Random Forest<br>
   ---➤ XGBoost<br>
   ---➤ Sequential Models for Forecasting Time Series Data<br>
-    i)  ANN
-    ii) Bidirectional LSTM
+    i)  ANN <br>
+    ii) Bidirectional LSTM <br>
     iii) Bidirectional GRU <br>
   ---➤ Statistical Models for Forecasting Time Series Data<br>
-    i)  Auto Regressive Integrated Moving Average (ARIMA)
-    ii) Vector Auto Regressive models (VAR)
+    i)  Auto Regressive Integrated Moving Average (ARIMA) <br>
+    ii) Vector Auto Regressive models (VAR) <br>
   ---➤Ensemble Learning<br>
-5. Conclusion
+5. Conclusion 
