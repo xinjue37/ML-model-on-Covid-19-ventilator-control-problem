@@ -13,7 +13,7 @@ Author: [Ng Zheng Jue](https://github.com/xinjue37), [Ong Ming Jie](https://gith
 2. Data analysis <br>
   ---➤ Analyse the properties of the dataset <br>
   ---➤ Analyse the relationship among (u_in, u_out, time_step) and pressure <br>
-    i) Box plot<be>
+    i) Box plot<br>
     ii) Violin plot<br>
     iii) 2D graph<br>
     iv) Correlation heatmap<br>
