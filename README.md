@@ -20,7 +20,7 @@ Author: [Ng Zheng Jue](https://github.com/xinjue37), [Ong Ming Jie](https://gith
 3. Data Pre-processing <br>
   ---➤ Extracted subset of dataset from original dataset <br>
   ---➤ Scale predictor variable to range [0,1] & split data into train, test, validation <br>
-4. Create & Train the model
+4. Create & Train the model <br>
   ---➤ KNN<br>
   ---➤ Random Forest<br>
   ---➤ XGBoost<br>
