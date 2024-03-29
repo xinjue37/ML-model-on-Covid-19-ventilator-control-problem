@@ -8,22 +8,22 @@ Author: [Ng Zheng Jue](https://github.com/xinjue37), [Ong Ming Jie](https://gith
   - The details explanation of the each methods used is discussed in the Jupyter notebook markdown cell.
  
 ## Table of content
-1. Introduction
+1. Introduction <br>
   ---➤ TPE and type of data science problem for this topic
-2. Data analysis
-  ---➤ Analyse the properties of the dataset
-  ---➤ Analyse the relationship among (u_in, u_out, time_step) and pressure
+2. Data analysis <br>
+  ---➤ Analyse the properties of the dataset <br>
+  ---➤ Analyse the relationship among (u_in, u_out, time_step) and pressure <br>
     i) Box plot       ii) Violin plot
     iii) 2D graph         iv) Correlation heatmap
-  ---➤ Calculate the number of different R,C pairs
-  ---➤ Analyse the relationship among (R, C) and pressure
-3. Data Pre-processing
-  ---➤ Extracted subset of dataset from original dataset
-  ---➤ Scale predictor variable to range [0,1] & split data into train, test, validation
+  ---➤ Calculate the number of different R,C pairs <br>
+  ---➤ Analyse the relationship among (R, C) and pressure <br>
+3. Data Pre-processing <br>
+  ---➤ Extracted subset of dataset from original dataset <br>
+  ---➤ Scale predictor variable to range [0,1] & split data into train, test, validation <br>
 4. Create & Train the model
-  ---➤ KNN
-  ---➤ Random Forest
-  ---➤ XGBoost
+  ---➤ KNN<br>
+  ---➤ Random Forest<br>
+  ---➤ XGBoost<br>
   ---➤ Sequential Models for Forecasting Time Series Data
     i)  ANN
     ii) Bidirectional LSTM
