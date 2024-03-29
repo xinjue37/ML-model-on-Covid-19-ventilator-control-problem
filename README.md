@@ -24,12 +24,12 @@ Author: [Ng Zheng Jue](https://github.com/xinjue37), [Ong Ming Jie](https://gith
   ---➤ KNN<br>
   ---➤ Random Forest<br>
   ---➤ XGBoost<br>
-  ---➤ Sequential Models for Forecasting Time Series Data
+  ---➤ Sequential Models for Forecasting Time Series Data<br>
     i)  ANN
     ii) Bidirectional LSTM
     iii) Bidirectional GRU
-  ---➤ Statistical Models for Forecasting Time Series Data
+  ---➤ Statistical Models for Forecasting Time Series Data<br>
     i)  Auto Regressive Integrated Moving Average (ARIMA)
     ii) Vector Auto Regressive models (VAR)
-  ---➤Ensemble Learning
+  ---➤Ensemble Learning<br>
 5. Conclusion
